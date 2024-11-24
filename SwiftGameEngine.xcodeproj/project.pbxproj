@@ -22,6 +22,7 @@
 		E4E6F51E2CF2F31A00D3F255 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4E6F4F82CF2F31700D3F255 /* GameScene.swift */; };
 		E4E6F51F2CF2F31A00D3F255 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4E6F4F92CF2F31A00D3F255 /* Assets.xcassets */; };
 		E4E6F5202CF2F31A00D3F255 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4E6F4F92CF2F31A00D3F255 /* Assets.xcassets */; };
+		E4E6F52A2CF2F37B00D3F255 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E4E6F5292CF2F37B00D3F255 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		E4E6F5132CF2F31A00D3F255 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		E4E6F5162CF2F31A00D3F255 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E4E6F5182CF2F31A00D3F255 /* SwiftGameEngine_macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SwiftGameEngine_macOS.entitlements; sourceTree = "<group>"; };
+		E4E6F5292CF2F37B00D3F255 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 		E4E6F4F02CF2F31700D3F255 = {
 			isa = PBXGroup;
 			children = (
+				E4E6F5292CF2F37B00D3F255 /* README.md */,
 				E4E6F4F52CF2F31700D3F255 /* SwiftGameEngine Shared */,
 				E4E6F5002CF2F31A00D3F255 /* SwiftGameEngine iOS */,
 				E4E6F5102CF2F31A00D3F255 /* SwiftGameEngine macOS */,
@@ -190,6 +193,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4E6F52A2CF2F37B00D3F255 /* README.md in Resources */,
 				E4E6F51B2CF2F31A00D3F255 /* GameScene.sks in Resources */,
 				E4E6F5072CF2F31A00D3F255 /* Main.storyboard in Resources */,
 				E4E6F5192CF2F31A00D3F255 /* Actions.sks in Resources */,
